@@ -3,7 +3,15 @@
   margin: 30px auto;
 }
 
+.App a {
+  text-decoration: none;
+}
+
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+}
+
+.App .title {
+  text-align: center;
 }

@@ -5,11 +5,12 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Weather App</h1>
+        <h1 className="title">Weather App</h1>
         <Weather defaultCity="Okinawa" />
         <footer>
-          This project is coded by Suzana Kešerac as taught by Matt Delac on
-          SheCodes Workshop and is{" "}
+          This project is coded by{" "}
+          <a href="https://github.com/QSuzyQ">Suzana Kešerac</a> as taught on{" "}
+          <a href="https://shecodes.io">SheCodes Workshop</a> and is{" "}
           <a
             href="https://github.com/QSuzyQ/example-weather-app"
             target="_blank"
