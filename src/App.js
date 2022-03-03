@@ -9,8 +9,14 @@ export default function App() {
         <Weather defaultCity="Okinawa" />
         <footer>
           This project is coded by{" "}
-          <a href="https://github.com/QSuzyQ">Suzana Kešerac</a> as taught on{" "}
-          <a href="https://shecodes.io">SheCodes Workshop</a> and is{" "}
+          <a href="https://github.com/QSuzyQ" target="_blank" rel="noreferrer">
+            Suzana Kešerac
+          </a>{" "}
+          as taught on{" "}
+          <a href="https://shecodes.io" target="_blank" rel="noreferrer">
+            SheCodes Workshop
+          </a>{" "}
+          and is{" "}
           <a
             href="https://github.com/QSuzyQ/example-weather-app"
             target="_blank"
